@@ -1,21 +1,25 @@
 ---
 layout: post
-title:  "Null3n und E1nsen Workshop [2]"
+title:  "Workshop am Klybeckplatz"
 author: 3k1n
 categories: [ Workshop ]
 tags: [ Klybeckplatz ]
-image: assets/images/2.jpg
-rating: 4.5
+image: assets/images/workshop-1.jpeg
+comments: false
+rating: false
 ---
 
-Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century. 
+Der erste <span class="branding">Null3en und E1nsen</span> Workshop hat am Klybeckplatz in Basel stattgefunden. Dies war der erste Versuch der Durchführung eines Workshops mit Teilnehmenden, die sehr wenige oder gar keine Erfahrung mit digitalen Technologien und Programmierung haben. Der Klybeckplatz hat ein Budget für die Durchführung des Workshops zur Verfügung gestellt, wovon Material für die Teilnehmenden, sowie notwendiges Unterrichts-Untensil beschafft werden konnte. 
 
-Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.
+![image-0](/assets/images/workshop-1/image-0.png)
+*Ausschnitt des Flyers mit dem die Teilnehmenden angeworben wurden. (Die Dauer des Workshops wurde auf einen Tag reduziert)*
 
-> It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.
+Der Versuch war es zunächst über eine technik-philosophische Einführung und Diskussion, den Erfahrungsstand der Teilnehmer zu ermitteln und den Kontext des Workshops zu definieren. Darauf konnten wichtige technische Konzepte, notwendige mathematische und informationstechnische Inhalte einfach vermittelt werden, sodass eine Basis für die Einführung in die Programmierung bestand. In einem nächsten Schritt wurde eine Einführung in die Programmierung gegeben, wobei unter Verwendung von Pseudo-Code wichtige Elemente, Strukturen und Abhängigkeiten innerhalb der Programmierung vermittelt wurden.
 
-Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier. 
+![image-1](/assets/images/workshop-1/image-1.jpeg)
+*Die technik-philosophische Reflektion und Einführung in die Programmierung wurde analog im Freien durchgeführt.*
 
-Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.
+Nach einer erholsamen Mittagspause mit Verpflegung wurde der praktische Teil des Workshops begonnen. Hierbei durfte wer will, einen Mini-Computer, genannt Raspberry Pi 4, gemeinsam unter Anleitung einrichten. Das Ziel war es den Mini-Computer so zu programmieren, sodass alle Teilnehmenden ihre eigene Webseite aus ihrem Wohnzimmer sozusagen betreiben können. Die hierfür notwendigen Schritte wurden an den eigenen Computern der Teilnehmenden ausgeführt, sodass die vom Workshop zu Verfügung gestellten Raspberry Pi eingerichtet und später nach Hause mitgenommen und weiterbearbeitet werden konnten.
 
-In 2017 Hache opened a smaller restaurant, L'Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.
+![image-](/assets/images/workshop-1/image-2.jpeg)
+*Ein Teilnehmer zeigt begeistert sein fertig zusammengebautes Raspberry Pi in die Runde.*

@@ -4,8 +4,9 @@
 
 $brown: #B59F62;
 $teal: #40FFDC;
+$deeprose: #c44569;
 $black: #111;
-$primary: $teal;
+$primary: $deeprose;
 $dark:    $black;
 $enable-rounded: false;
 
@@ -15,6 +16,12 @@ $enable-rounded: false;
 @import 'bootstrap/bootstrap';
 @import 'stars';
 
+// 3k1n
+.branding {
+    color: $primary;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
 
 // general
 body, input, button, select, optgroup, textarea {   
@@ -446,6 +453,7 @@ img, img:hover {
     p {
         margin-top:30px;
         margin-bottom:30px;
+        text-align: justify;
     }
     code {
         font-size: 15px;
