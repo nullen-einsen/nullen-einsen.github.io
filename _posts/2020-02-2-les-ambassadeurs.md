@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Les Ambassadeurs, the first Restaurant we Visited in Paris"
-author: sal
-categories: [ Lifestyle ]
-tags: [ France ]
+title:  "Null3n und E1nsen Workshop [2]"
+author: 3k1n
+categories: [ Workshop ]
+tags: [ Klybeckplatz ]
 image: assets/images/2.jpg
 rating: 4.5
 ---
