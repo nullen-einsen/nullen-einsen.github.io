@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digitale Aufklärung für alle 
+title: Digitale Aufklärung für Alle 
 permalink: /about
 comments: false
 #image: assets/images/screenshot.jpg
