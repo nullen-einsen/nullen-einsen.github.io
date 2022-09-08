@@ -6,7 +6,7 @@ comments: false
 ---
 
 <form   action="https://formspree.io/f/mdojawek" method="POST">    
-<p class="mb-4">Bitte sende Deine Nachricht an {{site.name}}. Wir antworten so schnell wie möglich!</p>
+<p class="mb-4">Bitte sende Deine Nachricht an {{site.name}}. Wir antworten Dir so schnell wie möglich!</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>
