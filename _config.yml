@@ -3,11 +3,11 @@ name: "Null3n & E1nsen"
 title: "Nulle3n & E1nsen"
 description: "Digitale Aufklärung: Zugang zu Wissen für jeden zu den Themen Digitalisierung, Programmierung, Internet und Web."
 logo: 'assets/images/0&1-logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/0&1-logo.png'
 baseurl: ''
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#google_analytics: 'UA-xxxxxxxx-1'
+#disqus: 'demowebsite'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 email: foo@bar.com
@@ -63,8 +63,8 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+#adsense-data-ad-client: "ca-pub-3412143450191416"
+#adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
