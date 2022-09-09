@@ -21,10 +21,13 @@ Im Vordergrund steht der Wissensaustausch mit dem Ziel die Nutzenden aus ihrer
 Ohnmacht zu befreien und eine neue Perspektive auf die Verwendung moderner Technik zu
 verleihen.
 
-Dazu sollen konkret regelmässige Referate, Seminare und Workshops angeboten werden.
-Zur Durchführung der Aktivitäten benötigt es nicht an Vielem. Ein Ort, eine Kreide-Tafel
-und eventuell ein Dutzend Mini-Computer zu erschwinglichen Preisen, würden genügen um
-von Klein bis Gross in die spannende Welt der 0 & 1 einzuführen.
+Die Gesellschaft bedarf einer <b>Digitalen Aufklärung</b> derer dieses Projekt beiträgt. Um dies zu erreichen werden konkret Workshops, Lehrmaterialien sowie Referate und Seminare angeboten. Die Lehrinhalte finden physisch statt, vorwiegend als analoge, theoretische und praktische Inhalte, welche in einem ganzheitlichen Kontext Bezug nehmen. Die Materialien stehen allen zur Verfügung und werden Open Source erstellt und verarbeitet. Die Teilnahme als Student oder das Mitwirken als Mentor ist offen für Interessierte, ob jung oder alt, erfahrener Linux-Superuser oder totaler Noob.
 
-<a href="/categories#workshops" class="btn btn-dark">Workshops &rarr;</a>
+Zur Durchführung der Projekt-Aktivitäten bedarf es finanzieller Unterstützung (Sponsoring), welches das Unterrichtsmaterial für die Teilnehmenden abdeckt. Die Lokalitäten, Werbung und Umsetzung sind durch die Mentoren selbst zu organisieren, bis eine feste Lehr-Räumlichkeit zur Verfügung steht.
+
+Coming soon:
+--> Anmeldung als Mentor
+--> Anmeldung als Teilnehmer für nächsten Workshop
+--> Lehrmaterial
+
 
