@@ -698,6 +698,12 @@ body.active-side {
             padding: 4px 10px;
         }
     }
+    .event-preview-content {
+        padding: 7px;
+        font-size: 12px;
+        box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+        width:255px;
+    }
 }
 
 @media (max-width: 600px) {
@@ -732,12 +738,7 @@ body.active-side {
         left: unset;
         z-index:0;        
     }
-    .event-preview-content {
-        padding: 7px;
-        font-size: 12px;
-        box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-        width:255px;
-    }
+
     .share {
         display: flex;
         align-items:center;

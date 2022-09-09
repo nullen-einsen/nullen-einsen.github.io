@@ -118,13 +118,11 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-12 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
+                Last Update: {{ site.time | date: "%D" }} <br> {{ site.name }} 
             </div>
             <div class="col-md-6 col-sm-12 text-center text-lg-right">    
                 <a target="_blank" class="d-inline-block mx-1 text-dark" href="https://github.com/nullen-einsen"><i class="fab fa-github"></i></a> 
-                <a target="_blank" class="d-inline-block mx-1 text-dark" href="https://www.instagram.com/nullen.einsen/"><i class="fab fa-instagram"></i></a> 
-
-                
+                <a target="_blank" class="d-inline-block mx-1 text-dark" href="https://www.instagram.com/nullen.einsen/"><i class="fab fa-instagram"></i></a>                 
             </div>
         </div>
     </div>
@@ -146,7 +144,7 @@
 {% endif %}
 
 {% if page.layout == 'post' %}
-<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
+<!-- <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script> -->
 {% endif %}
 
 </body>

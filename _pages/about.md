@@ -26,5 +26,5 @@ Zur Durchführung der Aktivitäten benötigt es nicht an Vielem. Ein Ort, eine K
 und eventuell ein Dutzend Mini-Computer zu erschwinglichen Preisen, würden genügen um
 von Klein bis Gross in die spannende Welt der 0 & 1 einzuführen.
 
-<a target="_self_" href="/categories#workshops" class="btn btn-dark">Workshops &rarr;</a>
+<a href="/categories#workshops" class="btn btn-dark">Workshops &rarr;</a>
 
