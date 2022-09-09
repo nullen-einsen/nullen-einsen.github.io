@@ -545,11 +545,28 @@ img, img:hover {
     }
 }
 
-//search
-.show-search {
+//search & event preview
+.show-search, .show-event-preview {
     cursor:pointer;
     &:hover {
         color: darken($primary,20%);
+    }
+}
+.event-preview-content {
+    margin-left: 14px;
+    background: $primary;
+    padding: 15px;
+    width: 300px;
+    color: white;
+}
+.bd-event-preview {
+    visibility: hidden;
+    opacity: 0;
+    transition:opacity 0.5s linear;
+    &.preview--show {
+        visibility: visible;
+        opacity: 1;
+        transition:opacity 0.5s linear;
     }
 }
 .bd-search {
@@ -563,6 +580,12 @@ img, img:hover {
     }
 }
 .wrap-search {
+    position: fixed;
+    left: 30px;
+    bottom: 25px;
+    z-index: 1026;
+}
+.wrap-event-preview {
     position: fixed;
     left: 30px;
     bottom: 25px;
@@ -603,6 +626,11 @@ body.active-side {
         visibility: visible;
         opacity: 1;
         transition: opacity 0.5s linear;
+    }
+    .bd-event-preview {
+        visibility: visible;
+        opacity: 1;
+        transition: opacity 0.5s linear;        
     }
 }
 //footer
@@ -673,7 +701,7 @@ body.active-side {
 }
 
 @media (max-width: 600px) {
-    .nav-icon, .sidebar, .share, .wrap-search {
+    .nav-icon, .sidebar, .share, .wrap-search, .wrap-event-preview {
         position:relative;
     }
     .container {
@@ -687,11 +715,27 @@ body.active-side {
         opacity: 1;
         transition: opacity 0.5s linear;
     }
+    .bd-event-preview {
+        visibility: visible;
+        opacity: 1;
+        transition: opacity 0.5s linear;    
+    }
     .wrap-search {
         right: 25px;
         display: flex;
         left: unset;
         z-index:0;
+    }
+    .wrap-event-preview {
+        right: 15px;
+        display: flex;
+        left: unset;
+        z-index:0;        
+    }
+    .event-preview-content {
+        padding: 7px;
+        font-size: 12px;
+        box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     }
     .share {
         display: flex;
@@ -735,6 +779,12 @@ body.active-side {
         }
         .form-control {
             height:35px;
+        }
+    }
+
+    .wrap-event-preview {
+        .fa-graduation-cap {
+            display:none;
         }
     }
 }

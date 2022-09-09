@@ -40,6 +40,11 @@ jQuery(document).ready(function($){
 	$('.show-search').on('click', function() {  
 		$('.bd-search').toggleClass('search--show');		
 	});
+
+		//toggle preview
+		$('.show-event-preview').on('click', function() {  
+			$('.bd-event-preview').toggleClass('preview--show');		
+		});
     
     // spoilers
      $(document).on('click', '.spoiler', function() {
@@ -82,6 +87,9 @@ $(document).ready(function(){
 	});
 	$(".nav-icon").click(function(){
 		$("body").toggleClass('active-side');
+	});
+	$(".nav-icon").click(function(){
+		$('.bd-search').toggleClass('preview--show');
 	});
 });
 
