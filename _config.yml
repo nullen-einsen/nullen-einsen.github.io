@@ -1,7 +1,7 @@
 # Site
 name: "Null3n & E1nsen"
 title: "Nulle3n & E1nsen"
-description: "Offene Platform für digitale Technologie, Programmierung und die Zukunft des Web."
+description: "Offene Platform für digitale Technologie, Programmierung und die Zukunft des Web"
 logo: 'assets/images/0&1-logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: ''
@@ -21,7 +21,7 @@ authors:
     github: https://github.com/o3k1n
     soundcloud: https://soundcloud.com/o3k1n
     twitter: https://twitter.com/o3k1n
-    description: "Free and Open Source Software (FOSS) - Enthusiast. Music & Code."
+    description: "Free and Open Source Software (FOSS) - Enthusiast | Philosopher of Science & Technology | Music Lover"
 
 # Plugins
 plugins:
