@@ -26,8 +26,11 @@ Die Gesellschaft bedarf einer <b>Digitalen Aufklärung</b> derer dieses Projekt 
 Zur Durchführung der Projekt-Aktivitäten bedarf es finanzieller Unterstützung (Sponsoring), welches das Unterrichtsmaterial für die Teilnehmenden abdeckt. Die Lokalitäten, Werbung und Umsetzung sind durch die Mentoren selbst zu organisieren, bis eine feste Lehr-Räumlichkeit zur Verfügung steht.
 
 Coming soon:
+
 --> Anmeldung als Mentor
+
 --> Anmeldung als Teilnehmer für nächsten Workshop
+
 --> Lehrmaterial
 
 
