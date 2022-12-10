@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kooperation mit Kulturbüro Basel"
-author: o3k1n
+author: 3k1n
 categories: [ News ]
 tags: [ Kulturbüro Basel ]
 image: assets/images/kulturburo_basel_nullen_einsen_pilot.jpg
