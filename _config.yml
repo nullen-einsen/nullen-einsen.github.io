@@ -14,14 +14,14 @@ email: foo@bar.com
 
 # Authors
 authors:
-  3k1n:
-    name: o3k1n
-    display_name: o3k1n
-    avatar: 'assets/images/avatar-o3k1n.jpg'
-    github: https://github.com/o3k1n
-    soundcloud: https://soundcloud.com/o3k1n
-    twitter: https://twitter.com/o3k1n
-    description: "Free and Open Source Software (FOSS) - Enthusiast | Philosopher of Science & Technology | Music Lover"
+  zerone:
+    name: zerone
+    display_name: zerone
+    #avatar: 'assets/images/avatar-o3k1n.jpg'
+    #github: https://github.com/o3k1n
+    #soundcloud: https://soundcloud.com/o3k1n
+    #twitter: https://twitter.com/o3k1n
+    #description: "Free and Open Source Software (FOSS) - Enthusiast | Philosopher of Science & Technology | Music Lover"
 
 # Plugins
 plugins:
@@ -62,7 +62,7 @@ adsense: "disabled"
 lazyimages: "disabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "enabled"
+authorbox: "disabled"
 
 # Sass
 sass:
