@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Workshop am Klybeckplatz"
-author: 3k1n
+author: zerone
 categories: [ Workshops ]
 tags: [ Klybeckplatz ]
 image: assets/images/workshop-1.jpeg
